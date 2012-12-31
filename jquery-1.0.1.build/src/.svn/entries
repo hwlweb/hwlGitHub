@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="509"
+   name=""
+   committed-date="2006-10-28T03:14:48.136019Z"
+   url="svn://jquery.com/tags/1.0.1/src"
+   last-author="john"
+   kind="dir"
+   uuid="71c7bbeb-8c0f-0410-8431-c31947b64af3"
+   repos="svn://jquery.com"
+   revision="509"/>
+<entry
+   name="jquery"
+   kind="dir"/>
+<entry
+   name="event"
+   kind="dir"/>
+<entry
+   name="ajax"
+   kind="dir"/>
+<entry
+   name="fx"
+   kind="dir"/>
+</wc-entries>
